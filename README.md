@@ -24,7 +24,7 @@ Technologies Used
 Installation
 
 Clone this repository to your local machine:
-  git clone https://https://github.com/PrajwalAwate17/Leaf-disease-Prediction
+  git clone https://github.com/PrajwalAwate17/Leaf-disease-Prediction
 
 Navigate to the project directory:
   cd potato-leaf-disease-detection
